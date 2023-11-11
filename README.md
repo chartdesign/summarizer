@@ -1,4 +1,4 @@
-# Gist Genie - a study in using Rapid-API
+# Gist Genie - summarize an article in seconds
 
 This App will allow users to post a link from an article and get a summarized version of it.
 
