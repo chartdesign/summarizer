@@ -19,7 +19,7 @@ const Hero = () => {
         </button>
       </nav>
 
-      <h1 className='head_text bluer_gradient'>
+      <h1 className='head_text bluer_gradient mb-2'>
         Get the gist of any article in seconds! <br className='max-md:hidden' />
       </h1>
       <h2 className='desc'>
